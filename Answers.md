@@ -2,9 +2,6 @@
 
 ## Data Science Challenge
 
-### Tips
-- Include code, graphics and text in a combined output. Tell a story, and let us know very clearly about your thoughts and analytical process.
-
 ### Part 1: Experiment design
 
 - Provide full details about how you will run experiments to assess the impact of this service on both hosts and guests. How will you ensure that the experiments are valid and not biased? 
